@@ -4,18 +4,18 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_000463_000248</identifier>
-   <identifier type="pid">knoxgardens:101</identifier>
-   <identifier type="slide number">Slide 35</identifier>
-   <identifier type="film number">Film  57</identifier>
-   <identifier type="spc">record_spc_4475</identifier>
+   <identifier type="local">0012_000463_000261</identifier>
+   <identifier type="pid">knoxgardens:158</identifier>
+   <identifier type="slide number">Slide 48</identifier>
+   <identifier type="film number">Film  34</identifier>
+   <identifier type="spc">record_spc_4478</identifier>
    <titleInfo supplied="yes">
-      <title>View in Lillian (Wrenn) Williams's garden</title>
+      <title>Entrance to Lida (McClung) Ross's garden</title>
    </titleInfo>
    <titleInfo>
-      <title>Williams, Mrs. Frank</title>
+      <title>Mrs. Will Ross</title>
    </titleInfo>
-   <abstract>Frank J. and Lillian (Wrenn) Williams lived at 1625 West Clinch Street in Knoxville, Tennessee where Lillian maintained the garden shown here.</abstract>
+   <abstract>Eliza "Lida" Mills McClung (1882-1968) was born to Calvin Morgan and Annie (McGhee) McClung in Tennessee. She married William Cary Ross (1879-1956) on December 2, 1902 and the couple lived at 4155 Lyons View Pike, where Lida maintained the garden shown above.</abstract>
    <originInfo>
       <dateCreated qualifier="inferred">1927-1935</dateCreated>
       <dateCreated encoding="edtf"
@@ -46,8 +46,8 @@
       <topic>Gardens, American</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85145559">
-      <topic>Water gardens</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85053505">
+      <topic>Gates</topic>
    </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79109786">

@@ -4,18 +4,18 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_000463_000261</identifier>
-   <identifier type="pid">knoxgardens:104</identifier>
-   <identifier type="slide number">Slide 48</identifier>
-   <identifier type="film number">Film  34</identifier>
-   <identifier type="spc">record_spc_4478</identifier>
+   <identifier type="local">0012_000463_000262</identifier>
+   <identifier type="pid">knoxgardens:159</identifier>
+   <identifier type="slide number">Slide 49</identifier>
+   <identifier type="film number">Film  61</identifier>
+   <identifier type="spc">record_spc_4487</identifier>
    <titleInfo supplied="yes">
-      <title>Entrance to Lida (McClung) Ross's garden</title>
+      <title>View in Lida (McClung) Ross' garden</title>
    </titleInfo>
    <titleInfo>
-      <title>Mrs. Will Ross</title>
+      <title>March (Ross)</title>
    </titleInfo>
-   <abstract>Eliza "Lida" Mills McClung (1882-1968) was born to Calvin Morgan and Annie (McGhee) McClung in Tennessee. She married William Cary Ross (1879-1956) on December 2, 1902 and the couple lived at 4155 Lyons View Pike, where Lida maintained the garden shown above.</abstract>
+   <abstract>Glass photo slide of garden patio in March. Eliza "Lida" Mills McClung (1882-1968) was born to Calvin Morgan and Annie (McGhee) McClung in Tennessee. She married William Cary Ross (1879-1956) on December 2, 1902 and the couple lived at 4155 Lyons View Pike, where Lida maintained the garden shown above.</abstract>
    <originInfo>
       <dateCreated qualifier="inferred">1927-1935</dateCreated>
       <dateCreated encoding="edtf"
@@ -46,8 +46,12 @@
       <topic>Gardens, American</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85053505">
-      <topic>Gates</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85035383">
+      <topic>Daffodils</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85098713">
+      <topic>Patio gardening</topic>
    </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79109786">

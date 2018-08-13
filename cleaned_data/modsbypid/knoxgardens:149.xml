@@ -4,18 +4,18 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_000463_000241</identifier>
-   <identifier type="pid">knoxgardens:103</identifier>
-   <identifier type="slide number">Slide 28</identifier>
-   <identifier type="film number">Film  41</identifier>
-   <identifier type="spc">record_spc_4477</identifier>
+   <identifier type="local">0012_000463_000251</identifier>
+   <identifier type="pid">knoxgardens:149</identifier>
+   <identifier type="slide number">Slide 38</identifier>
+   <identifier type="film number">Film  32</identifier>
+   <identifier type="spc">record_spc_4479</identifier>
    <titleInfo supplied="yes">
-      <title>View in Eleanor (Spence) Sanford's garden</title>
+      <title>Path in Nell (Jenkins) Prosser's garden</title>
    </titleInfo>
    <titleInfo>
-      <title>Mrs. A. F. Sanford</title>
+      <title>Mrs. Brown Prosser</title>
    </titleInfo>
-   <abstract>Eleanor Spence was born on April 4, 1879 in Knoxville, Tennessee. She married Alfred Fanton Sanford (1875-1946) in November of 1903 and the couple lived at 2890 Kingston Pike, where Eleanor maintained this garden.</abstract>
+   <abstract>Nell S. Jenkins married Knoxville merchandise broker Brown Prosser in 1924. She maintained the garden shown here at their home on Prosser Road.</abstract>
    <originInfo>
       <dateCreated qualifier="inferred">1927-1935</dateCreated>
       <dateCreated encoding="edtf"
@@ -46,12 +46,12 @@
       <topic>Gardens, American</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85145576">
-      <topic>Water lilies</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85106708">
+      <topic>Primroses</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85145559">
-      <topic>Water gardens</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85053084">
+      <topic>Garden walks</topic>
    </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79109786">
