@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Knoxville Garden Slides</title>
+    </titleInfo>
+    <name type="corporate" authority="naf" valueURI="http://id.loc.gov/authorities/names/no2018075078">
+        <namePart>Jim Thompson Company</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart>Bruner, Mrs. A. C.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1927</dateCreated>
+        <dateCreated encoding="edtf" point="end">1939</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <abstract>This digital collection of hand-colored lantern slides dates from the late 1920s and early 1930s. The slides depict ornamental gardens in the Knoxville, Tennessee, area and feature a variety of garden styles, plants, flowers, and foliage. They illustrate the rich tradition of gardening and beautification in Knoxville.
+        
+        Some of the slides are credited to Knoxville photographer, Jim Thompson, and it is possible that he produced all of them. Mrs. A.C. Bruner, an eminent member of the Knoxville Garden Club, donated the collection to the UT Libraries. The Knoxville Garden Club was organized in 1923 and was admitted nine years later to the Garden Club of America. Members of the club not only created and showed their own residential gardens but also worked throughout the Knoxville community to sponsor horticulture programs, host civic plantings, and support many other beautification efforts. In 1955, the club established the Dogwood Trails, which evolved into the Dogwood Arts Festival, an annual celebration of the area's culture and natural beauty that today attracts thousands of visitors.</abstract>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300134977">lantern slides</form>
+        <extent>99 lantern slides</extent>
+    </physicalDescription>
+    <subject>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101348">Photography of gardens</topic>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85053123">Gardens, American</topic>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85103022">Plants, Ornamental</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Knoxville Gardens Slides</title>
+        </titleInfo>
+        <identifier>MS.1324</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v88w3bgf</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

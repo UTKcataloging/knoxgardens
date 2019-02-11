@@ -8,6 +8,8 @@ Metadata for the migration of Knoxville Gardens (part of special collections ima
 
 ```
 |-- cleaned_data
+    |-- 0012_000463_000220.xml	
+    |-- collection_record.xml	    
     |-- modsbypid
       |--knoxgardens:101.xml
       |--knoxgardens:102.xml
@@ -19,8 +21,7 @@ Metadata for the migration of Knoxville Gardens (part of special collections ima
         |-- knoxgardens.openrefine.tar.gz
         |-- knoxgardens.xpr
         |-- modscollection.xml
-	    |-- open_refine_template.md
-    |-- 0012_000463_000220.xml	    
+	    |-- open_refine_template.md    
 |-- original_data
     |-- KnoxGardens_Women'sNames.xlsx
     |-- knoxgardens.xlsx
