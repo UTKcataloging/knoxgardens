@@ -54,6 +54,14 @@
             <url>https://n2t.net/ark:/87290/v88w3bgf</url>
         </location>
     </relatedItem>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Mrs. Hazz's Dogwoods</title>
+        </titleInfo>
+        <identifier type="pid">knoxgardens:133</identifier>
+        <abstract>Glass slide of Dogwoods in a garden.</abstract>
+        <dateCreated>1927-1935</dateCreated>
+    </relatedItem>
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
             University of Tennessee, Knoxville. Special Collections
