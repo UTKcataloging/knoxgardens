@@ -10,12 +10,12 @@
    <identifier type="film number">Film  102</identifier>
    <identifier type="spc">record_spc_4544</identifier>
    <titleInfo supplied="yes">
-      <title>View of unknown garden</title>
+      <title>Dutchman's breeches</title>
    </titleInfo>
    <titleInfo>
       <title>March wild</title>
    </titleInfo>
-   <abstract>Glass slide photo of white flowers and rocks.</abstract>
+   <abstract>Glass slide photo of Dutchman's breeches (Dicentra cucullaria) and rocks.</abstract>
    <originInfo>
       <dateCreated qualifier="inferred">1930-1939</dateCreated>
       <dateCreated encoding="edtf"
